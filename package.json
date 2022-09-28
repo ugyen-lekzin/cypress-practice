@@ -1,0 +1,21 @@
+{
+  "name": "page-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress open": "cy:open",
+    "cypress run": "cy:run"
+  },
+  "keywords": [
+    "page",
+    "object",
+    "cypress",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  }
+}
